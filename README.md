@@ -1,3 +1,5 @@
 # ObiOn777.github.io
 
-Hello, My name is Itthidej Aramsri. <a href="https://itthidejaramsri.pythonanywhere.com">
+Hello, My name is Itthidej Aramsri. 
+[Portfolio](https://itthidejaramsri.pythonanywhere.com)
+[Linkedin](https://www.linkedin.com/in/itthidej-aramsri-214184234/)
